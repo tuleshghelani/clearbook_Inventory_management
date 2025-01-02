@@ -1,0 +1,17 @@
+package com.accounting.enums;
+
+public enum AccountType {
+    ASSETS,
+    LIABILITIES,
+    INCOME,
+    EXPENSES,
+    CAPITAL,
+    CURRENT_ASSETS,
+    FIXED_ASSETS,
+    CURRENT_LIABILITIES,
+    LONG_TERM_LIABILITIES,
+    DIRECT_INCOME,
+    INDIRECT_INCOME,
+    DIRECT_EXPENSES,
+    INDIRECT_EXPENSES
+} 
